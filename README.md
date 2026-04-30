@@ -4,6 +4,7 @@
 
 Ce projet consiste à moderniser une application existante en adoptant une architecture conteneurisée avec Docker.
 L’objectif est de prendre une application existante composée d’un backend Node.js et d’une base de données MySQL, puis de la transformer pour qu’elle fonctionne avec Docker.
+Avant.png
 
 Concrètement, cela signifie que l’application et la base de données seront exécutées dans des conteneurs, ce qui facilite leur déploiement et leur gestion.
 
@@ -26,6 +27,7 @@ Les étapes principales du projet sont :
 4. Tester l’application en local avec Docker
 5. Publier l’image Docker sur Amazon ECR
 6. Déployer l’application sur une instance AWS EC2
+   Apres.png
 
 ## Auteur
 
