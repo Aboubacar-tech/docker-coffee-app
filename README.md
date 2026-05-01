@@ -1,7 +1,7 @@
 # Coffee Supplier App - Docker Migration
 
 ## Description
-
+Apres.png
 Ce projet consiste à moderniser une application existante en adoptant une architecture conteneurisée avec Docker.
 L’objectif est de prendre une application existante composée d’un backend Node.js et d’une base de données MySQL, puis de la transformer pour qu’elle fonctionne avec Docker.
 Avant.png
