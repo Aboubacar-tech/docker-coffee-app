@@ -1,7 +1,9 @@
 # Coffee Supplier App - Docker Migration
 
 ## Description
-Apres.png
+
+<img width="870" height="464" alt="Avant" src="https://github.com/user-attachments/assets/57135b76-84e2-47a5-939f-88091e2dc60f" />
+
 Ce projet consiste à moderniser une application existante en adoptant une architecture conteneurisée avec Docker.
 L’objectif est de prendre une application existante composée d’un backend Node.js et d’une base de données MySQL, puis de la transformer pour qu’elle fonctionne avec Docker.
 Avant.png
@@ -27,7 +29,7 @@ Les étapes principales du projet sont :
 4. Tester l’application en local avec Docker
 5. Publier l’image Docker sur Amazon ECR
 6. Déployer l’application sur une instance AWS EC2
-   Apres.png
+   <img width="875" height="468" alt="Apres" src="https://github.com/user-attachments/assets/cbbe7d2a-7001-45a1-be40-13d4e4c23083" />
 
 ## Auteur
 
